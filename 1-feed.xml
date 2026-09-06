@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kobi's Israeli Radio</title>
+    <link>https://github.com/kobis-hermes/podcasts</link>
+    <atom:link href="https://kobis-hermes.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>he</language>
+    <description>Personal podcast feed of Israeli radio episodes (Kan 88, Galgalatz and more), hotlinked from the publishers' CDNs.</description>
+    <itunes:author>Kobi</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kobi</itunes:name>
+      <itunes:email>kobis.hermes@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.omnycontent.com/d/programs/23f697a0-7e6a-4e96-a223-a82c00962b12/eb0f6913-1a3e-4d82-b029-ad8a00c5d4cf/image.jpg?t=1630849708&amp;size=Large"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>4.6.2026 - דיבור מקומי עם רוני ורטהיימר</title>
+      <link>https://omny.fm/shows/kan-3988/4-6-2026</link>
+      <guid isPermaLink="false">42608a41-1d6e-43ed-b4c7-b45f012aab49</guid>
+      <pubDate>Thu, 04 Jun 2026 18:10:51 +0000</pubDate>
+      <description>דיבור מקומי - Kan 88, שידור מיום 4.6.2026. מקור: Kan / Omny.</description>
+      <itunes:duration>3371</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/eb0f6913-1a3e-4d82-b029-ad8a00c5d4cf/42608a41-1d6e-43ed-b4c7-b45f012aab49/audio.mp3?utm_source=Podcast&amp;in_playlist=6957fd4a-1b59-4679-9bdc-ad8a00c5d621" length="53960687" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
