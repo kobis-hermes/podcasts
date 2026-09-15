@@ -35,6 +35,166 @@
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/3517d295-90e8-402c-8427-b1d7009673de/2da79df7-bf43-47b7-a086-b4b900da3029/audio.mp3?utm_source=Podcast&amp;in_playlist=2d82c4ea-e957-40ac-b9f9-b1d7009a3e97" length="47228273" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Episode 16: Landing the Plane</title>
+      <link>https://causalinf.substack.com/p/episode-16-landing-the-plane</link>
+      <guid isPermaLink="false">substack:post:209773016</guid>
+      <pubDate>Tue, 04 Aug 2026 13:59:08 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>5728</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/209773016/7d93455752db0224cc8c3d7283133f75.mp3" length="91722335" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 15: Exploring Confounders That Could Impact Our Parallel Trends Assumption</title>
+      <link>https://causalinf.substack.com/p/episode-15-exploring-confounders</link>
+      <guid isPermaLink="false">substack:post:207016192</guid>
+      <pubDate>Tue, 14 Jul 2026 13:32:42 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3967</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/207016192/c343889588f6125a579f710d80e9facf.mp3" length="63542344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 14: Results from continuous diff-in-diff!</title>
+      <link>https://causalinf.substack.com/p/episode-14-results-from-continuous</link>
+      <guid isPermaLink="false">substack:post:203196514</guid>
+      <pubDate>Tue, 23 Jun 2026 14:18:00 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>4485</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/203196514/39a65bec4136f4d1b5a10436b5f55ead.mp3" length="71827905" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 13: Finally the Continuous Diff-in-Diff Estimator Shows Up!</title>
+      <link>https://causalinf.substack.com/p/episode-13-finally-the-continuous</link>
+      <guid isPermaLink="false">substack:post:201299532</guid>
+      <pubDate>Tue, 09 Jun 2026 13:52:51 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>5566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/201299532/edeb4e2825204a44d7a2bf8f01868d59.mp3" length="89114170" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 12: What's our causal effect called?</title>
+      <link>https://causalinf.substack.com/p/episode-12-whats-our-causal-effect</link>
+      <guid isPermaLink="false">substack:post:199285756</guid>
+      <pubDate>Tue, 26 May 2026 06:09:26 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>4110</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/199285756/f2772ed67a8b50013fa4c1bd7c3fac98.mp3" length="65821253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 11: Why is our number this number?</title>
+      <link>https://causalinf.substack.com/p/episode-11-why-is-our-number-this</link>
+      <guid isPermaLink="false">substack:post:198315580</guid>
+      <pubDate>Tue, 19 May 2026 05:07:39 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>5052</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/198315580/37fb8e1f638c04e98180e25a8eabb3eb.mp3" length="80904343" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 10: Doses and Decompositions!</title>
+      <link>https://causalinf.substack.com/p/episode-10-doses-and-decompositions</link>
+      <guid isPermaLink="false">substack:post:197335245</guid>
+      <pubDate>Tue, 12 May 2026 12:26:32 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>5982</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/197335245/89d261e69b551a34c491229cea1c4892.mp3" length="95772912" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 9: Mystery Solved!</title>
+      <link>https://causalinf.substack.com/p/episode-9-mystery-solved</link>
+      <guid isPermaLink="false">substack:post:196522490</guid>
+      <pubDate>Tue, 05 May 2026 09:55:18 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3557</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/196522490/92b736b8a3de30facc10e09d3b4e252c.mp3" length="56978013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 8: Poisson Regressions (Finally)</title>
+      <link>https://causalinf.substack.com/p/episode-8-poisson-regressions-finally</link>
+      <guid isPermaLink="false">substack:post:195696097</guid>
+      <pubDate>Tue, 28 Apr 2026 08:45:00 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>4320</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/195696097/5f6ee106169c0716c2eb25cfac4e24fe.mp3" length="69190750" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 7 of the Odd Couple: Human Verification, I mean, Hannah Verification!</title>
+      <link>https://causalinf.substack.com/p/episode-7-of-the-odd-couple-human</link>
+      <guid isPermaLink="false">substack:post:194908098</guid>
+      <pubDate>Tue, 21 Apr 2026 12:28:21 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3948</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/194908098/f2d2da032a2399a3a961322080af1145.mp3" length="63224365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 6 of the Odd Couple: How Will We Draw Our Diff-in-Diff?</title>
+      <link>https://causalinf.substack.com/p/episode-6-of-the-odd-couple-how-will</link>
+      <guid isPermaLink="false">substack:post:194172511</guid>
+      <pubDate>Tue, 14 Apr 2026 10:52:35 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>4317</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/194172511/5be73aa3b38e840ce9177d43ab3753b2.mp3" length="69132448" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 5 of the Odd Couple: Making Maps with Claude Code!</title>
+      <link>https://causalinf.substack.com/p/episode-5-of-the-odd-couple-making</link>
+      <guid isPermaLink="false">substack:post:193456813</guid>
+      <pubDate>Tue, 07 Apr 2026 12:15:10 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/193456813/aad51c2a015c9aa80a5637e4f07723b5.mp3" length="49905716" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Odd Couple Episode 4: Introducing Hannah</title>
+      <link>https://causalinf.substack.com/p/the-odd-couple-episode-4-introducing</link>
+      <guid isPermaLink="false">substack:post:192709402</guid>
+      <pubDate>Tue, 31 Mar 2026 09:58:52 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>1968</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/192709402/37e739dd089b0f154f8d67d889fea47d.mp3" length="31551825" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Odd Couple Season 5 Episode 3: What's up with this data?</title>
+      <link>https://causalinf.substack.com/p/the-odd-couple-season-5-episode-3</link>
+      <guid isPermaLink="false">substack:post:191960146</guid>
+      <pubDate>Tue, 24 Mar 2026 09:29:18 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>4426</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/191960146/428523f422e43a622dbf53130eadd0a5.mp3" length="70869131" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Odd Couple Season 5, Episode 2: Setting it up and getting the data</title>
+      <link>https://causalinf.substack.com/p/the-odd-couple-season-5-episode-2</link>
+      <guid isPermaLink="false">substack:post:191224149</guid>
+      <pubDate>Tue, 17 Mar 2026 07:16:42 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3416</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/191224149/e4168590e2d6e36cc9cc4e5684f9e9a8.mp3" length="54717605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Mixtape with Scott (Featuring Caitlin Myers) Season 5: Episode 1 of The Odd Couple!</title>
+      <link>https://causalinf.substack.com/p/the-mixtape-with-scott-featuring</link>
+      <guid isPermaLink="false">substack:post:190381146</guid>
+      <pubDate>Tue, 10 Mar 2026 07:00:00 GMT</pubDate>
+      <description>The Mixtape with Scott, season 5: The Odd Couple. Scott Cunningham and Caitlin Myers conduct an empirical research project with Claude Code. Source: Scott Cunningham / Substack.</description>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://api.substack.com/feed/podcast/190381146/33e8b527036e0218f5bf47a85a77bb1a.mp3" length="51050198" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>4.6.2026 - דיבור מקומי עם רוני ורטהיימר</title>
       <link>https://omny.fm/shows/kan-3988/4-6-2026</link>
       <guid isPermaLink="false">42608a41-1d6e-43ed-b4c7-b45f012aab49</guid>
